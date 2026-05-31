@@ -1,7 +1,9 @@
 <h1 align="center">
   <strong style="font-size: 3rem; color: #00599C;">👋 Hi there, I'm Bhumika!</strong>
 </h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%26+ML+Enthusiast;Product+%26+Tech+Strategy;B.Tech+%40+IIT+Guwahati&color=00599C&center=true&width=500&height=50&vCenter=true&size=20" alt="Typing SVG" />
+</p>
 <p align="center">
   <b>🧑‍🎓 B.Tech in Chemical Science & Technology @ IIT Guwahati</b>
 </p>
@@ -18,10 +20,10 @@
 ---
 ###  A little about me
 
-* **I love blending analytical thinking with technology to solve real-world problems.
-* **Currently diving deep into Machine Learning, Artificial Intelligence, and Data Analytics.
-* **Passionate about product strategy; I enjoy building systems that are not just technically sound, but also make clear business sense.
-*  **When I am not writing code or modeling data, I am exploring new tech trends and finding ways to turn complex information into actionable insights.
+* **[I love blending analytical thinking with technology to solve real-world problems.]
+* **[Currently diving deep into Machine Learning, Artificial Intelligence, and Data Analytics.]
+* **[Passionate about product strategy; I enjoy building systems that are not just technically sound, but also make clear business sense.]
+*  **[When I am not writing code or modeling data, I am exploring new tech trends and finding ways to turn complex information into actionable insights.]
 ---
 ### My Tech Stack
 
@@ -43,13 +45,13 @@
 ### What I've been building
 
 * **[Retail Business Intelligence & Cohort Analytics](https://github.com/Bhumii1030/Retail-Analytics-Customer-Behavior-Loyalty)**
-  Built an automated data pipeline using Python and SQL to clean and process transaction logs[cite: 2]. Designed interactive PowerBI dashboards to analyze customer demographics and buying patterns, helping drive inventory and marketing strategies[cite: 2].
+  Built an automated data pipeline using Python and SQL to clean and process transaction logs. Designed interactive PowerBI dashboards to analyze customer demographics and buying patterns, helping drive inventory and marketing strategies.
 
 * **[Automated Fabric Defect Detection Engine](https://github.com/Bhumii1030/Automated-Fabric-Defect-Detection-System)**
-  Developed a computer vision model in Python to automatically detect anomalies and defects on industrial textile surfaces[cite: 4]. Used image processing techniques to turn raw pixel data into clear, actionable defect metrics[cite: 4].
+  Developed a computer vision model in Python to automatically detect anomalies and defects on industrial textile surfaces. Used image processing techniques to turn raw pixel data into clear, actionable defect metrics.
 
 * **[CVM++ Custom Virtual Machine](https://github.com/Bhumii1030/CVM-PlusPlus)**
-  Wrote a custom stack-based virtual machine and AST compiler from scratch in C/C++[cite: 3]. It includes a lexer, parser, and custom bytecode execution, showcasing my passion for understanding how systems work under the hood[cite: 3].
+  Wrote a custom stack-based virtual machine and AST compiler from scratch in C/C++. It includes a lexer, parser, and custom bytecode execution, showcasing my passion for understanding how systems work under the hood.
 
 ---
 
