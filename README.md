@@ -8,7 +8,7 @@
   <b>🧑‍🎓 B.Tech @ IIT Guwahati || Chemical Science & Technology </b>
 </p>
 <p align="center"> 
-  <b>🔗 Exploring the intersection of Data, AI, and Product Strategy to build impactful solutions.</b>
+  <b>🔗 Exploring the intersection of Data, AI and Product Strategy to build impactful solutions.</b>
 </p>
 
 ###  A little about me
