@@ -49,15 +49,13 @@
 
 ---
 
-### 📈 My GitHub Stats
+###  My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumii1030&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Bhumii1030&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumii1030&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+<p align="center">]
 </p>
 
 ---
