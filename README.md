@@ -16,7 +16,7 @@
 * **I love blending analytical thinking with technology to solve real-world problems**.
 * **Currently diving deep into Machine Learning, Artificial Intelligence and Data Analytics.**
 * **Passionate about product strategy; I enjoy building systems that are not just technically sound but also make clear business sense.**
-* **When I am not writing code or modeling data, I am exploring new tech trends and finding ways to turn complex information into actionable insights.**
+* **I am exploring new tech trends and finding ways to turn complex information into actionable insights.**
 
 ---
 ### My Tech Stack
