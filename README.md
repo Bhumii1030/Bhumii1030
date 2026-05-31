@@ -55,8 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=Bhumii1030&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">]
-</p>
 
 ---
 ### 🤝 Let's Connect!
