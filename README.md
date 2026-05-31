@@ -13,10 +13,11 @@
 
 ###  A little about me
 
-* **[I love blending analytical thinking with technology to solve real-world problems.]
-* **[Currently diving deep into Machine Learning, Artificial Intelligence, and Data Analytics.]
-* **[Passionate about product strategy; I enjoy building systems that are not just technically sound, but also make clear business sense.]
-*  **[When I am not writing code or modeling data, I am exploring new tech trends and finding ways to turn complex information into actionable insights.]
+* **I love blending analytical thinking with technology** to solve real-world problems.
+* **Currently diving deep into Machine Learning**, Artificial Intelligence, and Data Analytics.
+* **Passionate about product strategy;** I enjoy building systems that are not just technically sound, but also make clear business sense.
+* **When I am not writing code or modeling data,** I am exploring new tech trends and finding ways to turn complex information into actionable insights.
+
 ---
 ### My Tech Stack
 
@@ -48,10 +49,10 @@
 
 ---
 
-### My GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumii1030&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhumii1030&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Bhumii1030&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -60,7 +61,6 @@
 </p>
 
 ---
-
 ### 🤝 Let's Connect!
 
 <p align="center">
