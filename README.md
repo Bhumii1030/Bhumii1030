@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#f45b99&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f45b99&height=100&section=footer" alt="Footer"/>
 </p>
