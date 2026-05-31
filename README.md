@@ -2,18 +2,14 @@
   <strong style="font-size: 3rem; color: #00599C;">👋 Hi there, I'm Bhumika!</strong>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%26+ML+Enthusiast;Product+%26+Tech+Strategy;B.Tech+%40+IIT+Guwahati&color=00599C&center=true&width=500&height=50&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%26+ML+Enthusiast;Product+%26+Tech+Strategy&color=00599C&center=true&width=500&height=50&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 <p align="center">
-  <b>🧑‍🎓 B.Tech in Chemical Science & Technology @ IIT Guwahati</b>
+  <b>🧑‍🎓 B.Tech @ IIT Guwahati || Chemical Science & Technology </b>
 </p>
 <p align="center"> 
   <b>🔗 Exploring the intersection of Data, AI, and Product Strategy to build impactful solutions.</b>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%26+ML+Enthusiast;Product+%26+Tech+Strategy;B.Tech+%40+IIT+Guwahati&color=00599C&center=true&width=500&height=50&vCenter=true&size=20" alt="Typing SVG" />
-</p>
-
 ---
 
 
