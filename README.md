@@ -10,10 +10,7 @@
 <p align="center"> 
   <b>🔗 Exploring the intersection of Data, AI, and Product Strategy to build impactful solutions.</b>
 </p>
----
 
-
----
 ###  A little about me
 
 * **[I love blending analytical thinking with technology to solve real-world problems.]
