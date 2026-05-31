@@ -13,10 +13,10 @@
 
 ###  A little about me
 
-* **I love blending analytical thinking with technology** to solve real-world problems.
-* **Currently diving deep into Machine Learning**, Artificial Intelligence, and Data Analytics.
-* **Passionate about product strategy;** I enjoy building systems that are not just technically sound, but also make clear business sense.
-* **When I am not writing code or modeling data,** I am exploring new tech trends and finding ways to turn complex information into actionable insights.
+* **I love blending analytical thinking with technology to solve real-world problems**.
+* **Currently diving deep into Machine Learning, Artificial Intelligence and Data Analytics.**
+* **Passionate about product strategy; I enjoy building systems that are not just technically sound but also make clear business sense.**
+* **When I am not writing code or modeling data, I am exploring new tech trends and finding ways to turn complex information into actionable insights.**
 
 ---
 ### My Tech Stack
@@ -45,7 +45,7 @@
   Developed a computer vision model in Python to automatically detect anomalies and defects on industrial textile surfaces. Used image processing techniques to turn raw pixel data into clear, actionable defect metrics.
 
 * **[CVM++ Custom Virtual Machine](https://github.com/Bhumii1030/CVM-PlusPlus)**
-  Wrote a custom stack-based virtual machine and AST compiler from scratch in C/C++. It includes a lexer, parser, and custom bytecode execution, showcasing my passion for understanding how systems work under the hood.
+  Wrote a custom stack-based virtual machine and AST compiler from scratch in C/C++. It includes a lexer, parser and custom bytecode execution, showcasing my passion for understanding how systems work under the hood.
 
 ---
 
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" alt="Footer"/>
 </p>
